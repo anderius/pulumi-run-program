@@ -1,0 +1,1 @@
+Small project to re-create an error experienced when using PULUMI_RUN_PROGRAM with an inline Pulumi program.

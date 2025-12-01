@@ -1,0 +1,1 @@
+rootProject.name = "pulumi-run-program-error"
