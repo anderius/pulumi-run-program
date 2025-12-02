@@ -22,7 +22,7 @@ dependencies {
     implementation("com.pulumi:pulumi:1.17.1") // Pulumi SDK
     implementation("com.pulumi:github:6.9.1") // GitHub provider
 
-    testImplementation(platform("org.junit:junit-bom:5.10.0"))
+    testImplementation(platform("org.junit:junit-bom:6.0.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
