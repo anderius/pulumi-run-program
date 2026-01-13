@@ -20,7 +20,7 @@ java {
 dependencies {
 
     implementation("com.pulumi:pulumi:1.19.0") // Pulumi SDK
-    implementation("com.pulumi:github:6.10.0") // GitHub provider
+    implementation("com.pulumi:github:6.10.1") // GitHub provider
 
     testImplementation(platform("org.junit:junit-bom:6.0.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
